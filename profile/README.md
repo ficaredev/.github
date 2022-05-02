@@ -12,4 +12,4 @@
 
 <br/>
 
-Made with 🖤 by [riadyounes](https://github.com/riadyounes) & [txsoura](https://github.com/txsoura) :wave: 👋🏾 
+Made with 🖤 by [riadyounes](https://github.com/riadyounes), [txsoura](https://github.com/txsoura), and [viniengelage](https://github.com/viniengelage) :wave: 👋🏾 
